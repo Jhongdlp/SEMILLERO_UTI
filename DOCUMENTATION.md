@@ -586,7 +586,7 @@ Este proyecto fue desarrollado para el Semillero Empresarial de la Universidad T
 ## 👥 Contacto y Soporte
 
 Para preguntas o soporte:
-- Email: [contacto@uti.edu.ec]
+- Email: [jhongdlp204@gmail.com]
 - GitHub Issues: [repo-url/issues]
 
 ---
